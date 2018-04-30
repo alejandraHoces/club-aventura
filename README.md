@@ -80,30 +80,51 @@ Adicional a eso se les presento a las entrevistadas la propuesta de un Journey  
 ![20180411_182811](https://user-images.githubusercontent.com/32311089/39416643-2dc4ecd6-4c14-11e8-8c79-f77b2d7569cd.jpg)
 
 
-
-
 #### **Benchmark**
 Se realiza un benchmark con un sistema de puntos de Mexico
-> ![](assets/imgs/benchmarking.png)
+#####**Recompensas Centro Santa Fe**
+1.¿Qué es Recompensas Centro Santa Fe?
+Recompensas Centro Santa Fe , es un programa de lealtad orientado a incentivar a nuestros clientes por su preferencia y premiar sus compras. Ahora podrás obtener puntos por tus compras diarias y canjearlos por regalos.
+2.¿Cómo funciona?
+¡Para poder participar en Recompensas Centro Santa Fe solo necesitas registrarte en nuestra página: www.recompensascsf.com, comprar y capturar tus tickets los cuales te darán puntos canjeables por un regalo que podrás seleccionar tú mismo!
+3.¿Qué beneficios podrás obtener al registrarte en Recompensas Centro Santa Fe y acumular puntos?
+Podrás canjear tus puntos acumulados por regalos, dentro de los que podrás escoger; certificados de regalo en diferentes tiendas, accesorios para tu auto, joyas, perfumes, aparatos electrónicos y electrodomésticos, entre otros.
+![image](https://user-images.githubusercontent.com/32311089/39442003-6a53a3ac-4c75-11e8-8195-8a1bc2d16bff.png)
+
+##### **El Tesoro App**
+
+![image](https://user-images.githubusercontent.com/32311089/39442295-4e22c842-4c76-11e8-84b6-101ea7d1d636.png)
+![image](https://user-images.githubusercontent.com/32311089/39442323-615e94e0-4c76-11e8-9343-3648e701ed7b.png)
+
+En El tesoro App podrás encontrar varias secciones con las que te transmitiremos las experiencias que se dan en el Parque Comercial.
+
+Al ingresar al programa Mi Tesoro podrás registrar tus facturas únicamente tomando una foto completa de la misma, enviándola y en un plazo máximo de 48 horas podrás conocer su estado.
+También vas a poder consultar tus puntos acumulados y redimirlos en el Centro de Redención. Además, podrás conocer la cantidad de boletas que tienes para cada sorteo y redimir boletas para nuestras atracciones por medio de un código QR.
+
+¡Si te registras al Programa también te registras en la App! Así te mantendremos informado por medio de notificaciones de todo lo que te pueda interesar según tu perfil y facturas registradas.
+
+Adicionalmente tendrás a la mano el directorio de tiendas, ofertas vigentes, eventos, sorteos y noticias.
+
+¿Quieres llegar rápido al Parque Comercial El Tesoro?
+Nuestra App te mostrará la ruta más fácil y rápida de llegada.
+
+Estas son sólo algunas de las cosas que El Tesoro App te ofrece. Una experiencia que sólo conocerás al descargarla.
 
 ### **Resultados de la investigación**
 
 ### **SÍNTESIS Y DEFINICIÓN**
-#### **Comentarios de los usuarios (6 entrevistados)**
+#### **Comentarios de los usuarios (6 entrevistados) **
+1.“Disfruto de hacer cualquier tipo de compra”
+2.”Paso tiempo de compras en los centros comerciales”
+3.”Prefiero optar por artículos que tengan valor y calidad”
+4.”Ir al Mall es una excusa perfecta para relajarme y vivir experiencias ”
+5.”Encuentro lo que necesito en un solo lugar”
 ### **User persona**
-![](assets/imgs/andrea-user.png)
+![diego hincha](https://user-images.githubusercontent.com/32311089/39447025-15ec9f74-4c86-11e8-8ec3-4cede1e4f598.png)
+
 ### **IDEACIÓN**
 ### **Feature List**
-1. Elaborar un perfil de inversor
-2. Establecer un monto mínimo de inversión apoyado en un monto inicial, monto mensual y monto final en base al tiempo.
-3. Sugerir empresas en las cuales se pueda invertir de acuerdo al perfil.
-4. Autorizar el débito de los montos mediante firma digital.
-5. Permite crear objetivos compartidos entre varias personas.
-6. Editar montos mensuales, esperados y período de tiempo de inversión.
-7. Agregar sugerencias de inversiones a una lista.
-8. Eliminar item de lista de empresas sugeridas.
-9. Rescatar un monto total u otra cantidad.
-10. Editar y eliminar un objetivo.
+
 ### **Priorización**
 ### **Storytelling**
 
