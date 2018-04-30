@@ -115,6 +115,12 @@ Al  día siguiente Juan comenta  su experiencia   que tuvo en Mall Aventura  con
 
 ### **PROTOTYPING**  
 #### **Prototipo de baja  fidelidad**
+
+![new user flow 1](https://user-images.githubusercontent.com/32306054/39444150-5ecb6658-4c7c-11e8-888f-6dca3f230564.jpg)
+
+![new2](https://user-images.githubusercontent.com/32306054/39444195-8b33edfa-4c7c-11e8-9086-0860b1b3ae7d.jpg)
+
+
 #### **Prototipo de alta fidelidad**
 ### **TESTING**
 1.  _**Totem principal**_
@@ -123,11 +129,23 @@ Al  día siguiente Juan comenta  su experiencia   que tuvo en Mall Aventura  con
 4.  _**Consulta de puntos web**_
 
 
-#### **User Flow**
-#### **Task Flow**
-#### **Customer Journey Map**
-- _**Flujo ideal del servicio**_ 
-- _**Flujo real del servicio**_ 
+### **User Flow**
+
+#### User flow de un nuevo usuario
+![new user flow 1](https://user-images.githubusercontent.com/32306054/39444263-c1228228-4c7c-11e8-8e01-5a3122466e59.jpg)
+
+#### User flow de un usuario ya registrado
+![check-in userflow](https://user-images.githubusercontent.com/32306054/39444307-dce4dd12-4c7c-11e8-8568-28a2ca6b60d5.jpg)
+
+### **Task Flow**
+### **Customer Journey Map**
+
+#### Usuario nuevo
+![usuario nuevo](https://user-images.githubusercontent.com/32306054/39444356-0b69b36a-4c7d-11e8-95a3-e37c8020c14e.jpg)
+
+#### Usuario registrado
+![usuario registrado](https://user-images.githubusercontent.com/32306054/39444406-3c877e00-4c7d-11e8-9478-abd0427dfcaa.jpg)
+
 
 #### **Primer testing **
 https://marvelapp.com/project/2825855/
