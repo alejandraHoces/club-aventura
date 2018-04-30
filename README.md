@@ -106,6 +106,13 @@ Se realiza un benchmark con un sistema de puntos de Mexico
 10. Editar y eliminar un objetivo.
 ### **Priorización**
 ### **Storytelling**
+
+Ya falta poco tiempo para que Perú participe en el Mundial, y Juan es un hincha acérrimo de la selección y quiere tener   de todo para ver y alentar al Perú. Lo primero es comprarse desde una televisión más grande, un equipo de sonido, los polos y casaquillas del mundial, hasta piqueos y unas cervezas bien heladas para alentar cada partido del Perú.  Juan sabe que invertirá mucho dinero en todo lo que desea, pero está dispuesto a gastarlo, solo que ahora está pensando en qué lugar  puede encontrar todo  y aparte  aprovechar ese día para tener  un almuerzo  con toda la familia. 
+
+Empieza a revisar su Facebook   para ver si pide alguna recomendación de qué lugar le pueden sugerir, hasta que  mira una publicidad de Mall Aventura, un centro  comercial que está  cerca a su casa, Se da con la sorpresa que este centro comercial   tiene  un nuevo sistema para tener felices a sus cliente y decide probarlo yendo ese mismo día. Al llegar a Mall Aventura una señorita muy amable se le acerca y le explica del programa Club Aventura, el cual trata de cómo ganar puntos para obtener grandes descuentos en productos y servicios por solo  visitar y comprar en  el centro comercial. Juan se siente fascinado por que se dio cuenta  que por todas las compras que haga  y con el nuevo sistema  de puntos de Mall Aventura  prácticamente  las cervezas y piqueos le saldrán gratis. Sin pensarlo dos veces Juan  se inscribe en este  Club Aventura y se dio cuenta que desde ese momento  ya empezó a ganar sus  puntos, es mas  ganó un polo por  con  continuar  con la inscripción. 
+
+Al  día siguiente Juan comenta  su experiencia   que tuvo en Mall Aventura  con compañeros del trabajo, y les  recomienda  que mejor vallan para allá a hacer todas sus comprar  o pasar un buen rato con la familia, ya que los recompensaran con buenos descuentos.
+
 ### **PROTOTYPING**  
 #### **Prototipo de baja  fidelidad**
 #### **Prototipo de alta fidelidad**
