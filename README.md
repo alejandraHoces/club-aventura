@@ -53,16 +53,32 @@ Un sistema de recompensas mediante la acumulación de puntos  por visitas y/o co
 ●	Principales atributos valorados: Buen servicio / “es completo” / limpieza.  
 
 #### **Entrevistas a profundidad**
-Se realizaron entrevistas a profundidad con 5 personas a las cuales se les aplicó el siguiente cuestionario:
-
+-Se realizaron entrevistas a profundidad con 5 personas a las cuales se les aplicó el siguiente cuestionario:
+1. Edad
+2. ¿Cada cuanto tiempo acudes al mall Aventura?
+3. ¿Cuáles son los principales motivos por el que acudes a Mall Aventura?
+4. Presentación de sistema de recompensas e implementación inicial.
+5. ¿Cuán difícil es entender cada módulo?
+6. ¿Qué nivel de incomodidad tiene cada touch point del journey?
+7. ¿Qué desearías que mejoremos  o eliminemos en el journey?
+8.¿Qué premios desearías en el sistema de recompensas?
+9.¿Accedes al wi-fi de Mall Aventura?
+10.¿Cuales son los motivos principales por el cual ingresarías a la web/fanpage	 del mall? 
+11.¿Con quienes visitas regularmente el mall aventura?
+12.¿Desearias recibir ofertas e información via telefónica?
+13. Has participado alguna vez en los eventos de Mall Aventura
+14. ¿Hasta el momento percibes que Mall Aventura te ha brindado algún beneficio adicional a tus compras?
+15.¿Qué es lo que desearías que se implementé en el Mall Aventura que hayas visto en otros lugares?
+16. ¿Qué te impulsa a ir a otros centros comerciales y no a Mall Aventura?
+17.¿Qué productos/servicios consumes generalmente en el Mall Aventura?
 
 Las entrevistadas fueron:
-- Los audios de las entrevistas se encuentran en el siguiente link:
+- Los audios de las entrevistas se encuentran en el siguiente link: https://drive.google.com/drive/folders/1lSdh-Xl8GK0Q8cfByATqN7ekwkW1_sTq?usp=sharing
 
 - _**Brainstorming de aplicativo/website/servicio**_  
-
 Adicional a eso se les presento a las entrevistadas la propuesta de un Journey  la cual permita fidelizarlos.
-> ![](assets/imgs/journeypng)
+![20180411_182811](https://user-images.githubusercontent.com/32311089/39416643-2dc4ecd6-4c14-11e8-8c79-f77b2d7569cd.jpg)
+
 
 
 
