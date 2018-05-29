@@ -32,8 +32,10 @@ Un sistema de recompensas mediante la acumulación de puntos  por visitas y/o co
 
 ### **DESCUBRIMIENTO E INVESTIGACIÓN**
 ### **Análisis de datos**
--Se realizó el análisis de estudios de investigación de mercados realizados por IPSOS Loyalty: https://drive.google.com/drive/folders/18c4M_TrrYpx4MmrtLprqUaTReh7Yg7wV?usp=sharing
+- Se realizó el análisis de estudios de investigación de mercados realizados por IPSOS Loyalty: https://drive.google.com/drive/folders/18c4M_TrrYpx4MmrtLprqUaTReh7Yg7wV?usp=sharing  
+
 **1. Lima:**  
+
 ●	Visitas anuales: 12 millones  
 ●	Género: 67% hombres / 33% mujeres  
 ●	29 años en promedio  
@@ -45,6 +47,7 @@ Un sistema de recompensas mediante la acumulación de puntos  por visitas y/o co
 ●	Principales atributos valorados: buen ambiente / buen servicio / limpieza./ variedad
 
 **2. Arequipa:**  
+
 ●	Visitas anuales: 10 millones  
 ●	Género: 48% hombres / 52% mujeres  
 ●	30 años en promedio  
@@ -90,7 +93,7 @@ Adicional a eso se les presento a las entrevistadas la propuesta de un Journey  
 
 Se realiza un benchmark con un sistema de puntos de Mexico  
 
-#####**Recompensas Centro Santa Fe**  
+##### **Recompensas Centro Santa Fe**  
 
 1.¿Qué es Recompensas Centro Santa Fe?  
 Recompensas Centro Santa Fe , es un programa de lealtad orientado a incentivar a nuestros clientes por su preferencia y premiar sus compras. Ahora podrás obtener puntos por tus compras diarias y canjearlos por regalos.  
@@ -147,7 +150,8 @@ Estas son sólo algunas de las cosas que El Tesoro App te ofrece. Una experienci
 -	Se solicita más datos dirección, correo, celular, gustos y preferencias. (para generar base de información de los usuarios).  
 -	Entrega de premio.
  
-2. Interaccion la tablet ubicada en puntos estrategicos dentro del Mall Aventura
+2. Interacción la tablet ubicada en puntos estrategicos dentro del Mall Aventura
+
 ### **Priorización**
 ### **Storytelling**
 
