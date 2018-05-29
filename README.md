@@ -58,14 +58,13 @@ Un sistema de recompensas mediante la acumulación de puntos  por visitas y/o co
 ●	Principales atributos valorados: Buen servicio / “es completo” / limpieza.  
 
 #### **Entrevistas a profundidad**  
+
+**Presentación de sistema de recompensas e implementación inicial.**  
 - Se realizaron entrevistas a profundidad con 5 personas a las cuales se les aplicó el siguiente cuestionario:  
 
 1. Edad  
 2. ¿Cada cuanto tiempo acudes al mall Aventura?  
 3. ¿Cuáles son los principales motivos por el que acudes a Mall Aventura?  
-
-**Presentación de sistema de recompensas e implementación inicial.**  
-
 4. ¿Cuán difícil es entender cada módulo?  
 5. ¿Qué nivel de incomodidad tiene cada touch point del journey?  
 6. ¿Qué desearías que mejoremos  o eliminemos en el journey?  
@@ -95,13 +94,13 @@ Se realiza un benchmark con un sistema de puntos de Mexico
 
 ##### **Recompensas Centro Santa Fe**  
 
-1.¿Qué es Recompensas Centro Santa Fe?  
+**1. ¿Qué es Recompensas Centro Santa Fe?**  
 Recompensas Centro Santa Fe , es un programa de lealtad orientado a incentivar a nuestros clientes por su preferencia y premiar sus compras. Ahora podrás obtener puntos por tus compras diarias y canjearlos por regalos.  
 
-2.¿Cómo funciona?  
+**2. ¿Cómo funciona?**  
 Para poder participar en Recompensas Centro Santa Fe solo necesitas registrarte en nuestra página: www.recompensascsf.com, comprar y capturar tus tickets los cuales te darán puntos canjeables por un regalo que podrás seleccionar tú mismo
 
-3.¿Qué beneficios podrás obtener al registrarte en Recompensas Centro Santa Fe y acumular puntos?  
+**3. ¿Qué beneficios podrás obtener al registrarte en Recompensas Centro Santa Fe y acumular puntos?**  
 Podrás canjear tus puntos acumulados por regalos, dentro de los que podrás escoger; certificados de regalo en diferentes tiendas, accesorios para tu auto, joyas, perfumes, aparatos electrónicos y electrodomésticos, entre otros.
 ![image](https://user-images.githubusercontent.com/32311089/39442003-6a53a3ac-4c75-11e8-8195-8a1bc2d16bff.png)  
 
@@ -128,7 +127,7 @@ Estas son sólo algunas de las cosas que El Tesoro App te ofrece. Una experienci
 
 ### **SÍNTESIS Y DEFINICIÓN**
 
-#### **Comentarios de los usuarios (6 entrevistados) **  
+#### **Comentarios de los usuarios (6 entrevistados)**  
 
 1.“Disfruto de hacer cualquier tipo de compra”  
 2.”Paso tiempo de compras en los centros comerciales”  
@@ -170,10 +169,11 @@ Al  día siguiente Juan comenta  su experiencia   que tuvo en Mall Aventura  con
 
 
 #### **Prototipo de alta fidelidad**
+
 ### **TESTING**
 1.  _**Totem principal**_
-2.  _**Check-in biométrico **_
-3.  _**Canje  de puntos **_
+2.  _**Check-in biométrico**_
+3.  _**Canje  de puntos**_
 4.  _**Consulta de puntos web**_
 
 
@@ -195,7 +195,7 @@ Al  día siguiente Juan comenta  su experiencia   que tuvo en Mall Aventura  con
 ![usuario registrado](https://user-images.githubusercontent.com/32306054/39444406-3c877e00-4c7d-11e8-9478-abd0427dfcaa.jpg)
 
 
-#### **Primer testing **
+#### **Primer testing**
 https://marvelapp.com/project/2825855/
 - _**Script del testing**_ 
 - _**Tareas a realizar**_ 
