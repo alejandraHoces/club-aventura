@@ -9,11 +9,12 @@
 ### **PROGRAMA  DE FIDELIZACIÓN A CLIENTES DEL MALL AVENTURA**
 
 ### **Contexto**
--Somos el nuevo Mall Aventura con presencia en 2 ciudades del Perú: Mall Aventura Santa Anita en Lima y Mall Aventura Porongoche en Arequipa. Desde julio 2016 venimos transformando momentos comunes en experiencias extraordinarias, junto a toda la familia Mall Aventura. 
--Nuestra pasión es mejorar el entorno y la calidad de vida de las comunidades en donde nos establecemos, es así que en el 2017 nos hicimos acreedores del premio "Great Place to Work". La aventura que vivimos internamente también se refleja en todas las acciones para nuestros trabajadores.
+-Somos el nuevo Mall Aventura con presencia en 2 ciudades del Perú: Mall Aventura Santa Anita en Lima y Mall Aventura Porongoche en Arequipa. Desde julio 2016 venimos transformando momentos comunes en experiencias extraordinarias, junto a toda la familia Mall Aventura.  
+-Nuestra pasión es mejorar el entorno y la calidad de vida de las comunidades en donde nos establecemos, es así que en el 2017 nos hicimos acreedores del premio "Great Place to Work". La aventura que vivimos internamente también se refleja en todas las acciones para nuestros trabajadores.  
 -Mall Aventura, es el centro comercial líder en Lima Este y Arequipa. Los principales KPIs: Recordación, tráfico y ventas son positivos. 
-En Arequipa, el liderazgo responde a contar con la mayor oferta comercial, servicios y entretenimiento de la ciudad (frente a los otros 4 centros comerciales de la ciudad). En Lima, el liderazgo responde también a ser el único centro comercial con un mix comercial completo en esta zona de Lima. 
-La situación: la alta competencia en AQP y la próxima apertura de un competidor en Lima Este nos lleva a pensar en acciones de fidelización de clientes actuales. Además, de la necesidad de profundizar en el conocimiento que tenemos de nuestros clientes actuales para poder ofrecerles productos y servicios que se adecuen a sus necesidades. 
+En Arequipa, el liderazgo responde a contar con la mayor oferta comercial, servicios y entretenimiento de la ciudad (frente a los otros 4 centros comerciales de la ciudad). En Lima, el liderazgo responde también a ser el único centro comercial con un mix comercial completo en esta zona de Lima.  
+
+**La situación: la alta competencia en AQP y la próxima apertura de un competidor en Lima Este nos lleva a pensar en acciones de fidelización de clientes actuales. Además, de la necesidad de profundizar en el conocimiento que tenemos de nuestros clientes actuales para poder ofrecerles productos y servicios que se adecuen a sus necesidades.**
 
 
 ### **Idea de negocio**
