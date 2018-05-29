@@ -14,7 +14,7 @@
 - Mall Aventura, es el centro comercial líder en Lima Este y Arequipa. Los principales KPIs: Recordación, tráfico y ventas son positivos. 
 En Arequipa, el liderazgo responde a contar con la mayor oferta comercial, servicios y entretenimiento de la ciudad (frente a los otros 4 centros comerciales de la ciudad). En Lima, el liderazgo responde también a ser el único centro comercial con un mix comercial completo en esta zona de Lima.  
 
-**La situación: la alta competencia en AQP y la próxima apertura de un competidor en Lima Este nos lleva a pensar en acciones de fidelización de clientes actuales. Además, de la necesidad de profundizar en el conocimiento que tenemos de nuestros clientes actuales para poder ofrecerles productos y servicios que se adecuen a sus necesidades.**
+*La situación: La alta competencia en AQP y la próxima apertura de un competidor en Lima Este nos lleva a pensar en acciones de fidelización de clientes actuales. Además, de la necesidad de profundizar en el conocimiento que tenemos de nuestros clientes actuales para poder ofrecerles productos y servicios que se adecuen a sus necesidades.*
 
 
 ### **Idea de negocio**
@@ -62,21 +62,22 @@ Un sistema de recompensas mediante la acumulación de puntos  por visitas y/o co
 5. ¿Cuán difícil es entender cada módulo?
 6. ¿Qué nivel de incomodidad tiene cada touch point del journey?
 7. ¿Qué desearías que mejoremos  o eliminemos en el journey?
-8.¿Qué premios desearías en el sistema de recompensas?
-9.¿Accedes al wi-fi de Mall Aventura?
+8. ¿Qué premios desearías en el sistema de recompensas?
+9. ¿Accedes al wi-fi de Mall Aventura?
 10.¿Cuales son los motivos principales por el cual ingresarías a la web/fanpage	 del mall? 
 11.¿Con quienes visitas regularmente el mall aventura?
 12.¿Desearias recibir ofertas e información via telefónica?
-13. Has participado alguna vez en los eventos de Mall Aventura
-14. ¿Hasta el momento percibes que Mall Aventura te ha brindado algún beneficio adicional a tus compras?
+13.¿Has participado alguna vez en los eventos de Mall Aventura?
+14.¿Hasta el momento percibes que Mall Aventura te ha brindado algún beneficio adicional a tus compras?
 15.¿Qué es lo que desearías que se implementé en el Mall Aventura que hayas visto en otros lugares?
-16. ¿Qué te impulsa a ir a otros centros comerciales y no a Mall Aventura?
+16.¿Qué te impulsa a ir a otros centros comerciales y no a Mall Aventura?
 17.¿Qué productos/servicios consumes generalmente en el Mall Aventura?
 
 Las entrevistadas fueron:
 - Los audios de las entrevistas se encuentran en el siguiente link: https://drive.google.com/drive/folders/1lSdh-Xl8GK0Q8cfByATqN7ekwkW1_sTq?usp=sharing
 
 - _**Brainstorming de aplicativo/website/servicio**_  
+
 Adicional a eso se les presento a las entrevistadas la propuesta de un Journey  la cual permita fidelizarlos.
 ![20180411_182811](https://user-images.githubusercontent.com/32311089/39416643-2dc4ecd6-4c14-11e8-8c79-f77b2d7569cd.jpg)
 
@@ -120,6 +121,7 @@ Estas son sólo algunas de las cosas que El Tesoro App te ofrece. Una experienci
 3.”Prefiero optar por artículos que tengan valor y calidad”
 4.”Ir al Mall es una excusa perfecta para relajarme y vivir experiencias ”
 5.”Encuentro lo que necesito en un solo lugar”
+
 ### **User persona**
 ![diego hincha](https://user-images.githubusercontent.com/32311089/39447025-15ec9f74-4c86-11e8-8ec3-4cede1e4f598.png)
 
