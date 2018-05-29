@@ -14,7 +14,7 @@
 - Mall Aventura, es el centro comercial líder en Lima Este y Arequipa. Los principales KPIs: Recordación, tráfico y ventas son positivos. 
 En Arequipa, el liderazgo responde a contar con la mayor oferta comercial, servicios y entretenimiento de la ciudad (frente a los otros 4 centros comerciales de la ciudad). En Lima, el liderazgo responde también a ser el único centro comercial con un mix comercial completo en esta zona de Lima.  
 
-*La situación: La alta competencia en AQP y la próxima apertura de un competidor en Lima Este nos lleva a pensar en acciones de fidelización de clientes actuales. Además, de la necesidad de profundizar en el conocimiento que tenemos de nuestros clientes actuales para poder ofrecerles productos y servicios que se adecuen a sus necesidades.*
+**La situación: La alta competencia en AQP y la próxima apertura de un competidor en Lima Este nos lleva a pensar en acciones de fidelización de clientes actuales. Además, de la necesidad de profundizar en el conocimiento que tenemos de nuestros clientes actuales para poder ofrecerles productos y servicios que se adecuen a sus necesidades.**
 
 
 ### **Idea de negocio**
@@ -29,69 +29,78 @@ Un sistema de recompensas mediante la acumulación de puntos  por visitas y/o co
 
 ### **Proceso de diseño**
 ![image](https://user-images.githubusercontent.com/32311089/39415555-542ef1be-4c0a-11e8-8b36-0c4761305d02.png)
+
 ### **DESCUBRIMIENTO E INVESTIGACIÓN**
 ### **Análisis de datos**
 -Se realizó el análisis de estudios de investigación de mercados realizados por IPSOS Loyalty: https://drive.google.com/drive/folders/18c4M_TrrYpx4MmrtLprqUaTReh7Yg7wV?usp=sharing
-1. Lima: 
-●	Visitas anuales: 12 millones
-●	Género: 67% hombres / 33% mujeres 
-●	29 años en promedio 
-●	NSE 39% B / 44% C 
+**1. Lima:**  
+●	Visitas anuales: 12 millones  
+●	Género: 67% hombres / 33% mujeres  
+●	29 años en promedio  
+●	NSE 39% B / 44% C  
 ●	Distritos de procedencia: Ate y Santa Anita  
-●	¾ de los visitantes viene al  menos 1 vez a la semana. 
-●	Visita principalmente Tiendas por departamento (principal), Paga servicios, va al supermercado y come en el patio de comidas. 
-●	65% llega en transporte público
+●	¾ de los visitantes viene al  menos 1 vez a la semana.  
+●	Visita principalmente Tiendas por departamento (principal), Paga servicios, va al supermercado y come en el patio de comidas.  
+●	65% llega en transporte público  
 ●	Principales atributos valorados: buen ambiente / buen servicio / limpieza./ variedad
-2. Arequipa: 
-●	Visitas anuales: 10 millones
-●	Género: 48% hombres / 52% mujeres 
-●	30 años en promedio 
-●	NSE 66% A/B / 29% C 
+
+**2. Arequipa:**  
+●	Visitas anuales: 10 millones  
+●	Género: 48% hombres / 52% mujeres  
+●	30 años en promedio  
+●	NSE 66% A/B / 29% C  
 ●	Distritos de procedencia: Es regional con foco en Bustamante y Rivero y Paucarpata.  
-●	¾ de los visitantes viene al  menos 1 vez a la semana. 
-●	Visita principalmente Va al supermercado (principal), visita Tiendas por departamento, Paga servicios, y come en el patio de comidas. 
-●	42% llega en transporte público y 24% en taxi.
+●	¾ de los visitantes viene al  menos 1 vez a la semana.  
+●	Visita principalmente Va al supermercado (principal), visita Tiendas por departamento, Paga servicios, y come en el patio de comidas.  ●	42% llega en transporte público y 24% en taxi.  
 ●	Principales atributos valorados: Buen servicio / “es completo” / limpieza.  
 
-#### **Entrevistas a profundidad**
--Se realizaron entrevistas a profundidad con 5 personas a las cuales se les aplicó el siguiente cuestionario:
-1. Edad
-2. ¿Cada cuanto tiempo acudes al mall Aventura?
-3. ¿Cuáles son los principales motivos por el que acudes a Mall Aventura?
-4. Presentación de sistema de recompensas e implementación inicial.
-5. ¿Cuán difícil es entender cada módulo?
-6. ¿Qué nivel de incomodidad tiene cada touch point del journey?
-7. ¿Qué desearías que mejoremos  o eliminemos en el journey?
-8. ¿Qué premios desearías en el sistema de recompensas?
-9. ¿Accedes al wi-fi de Mall Aventura?
-10.¿Cuales son los motivos principales por el cual ingresarías a la web/fanpage	 del mall? 
-11.¿Con quienes visitas regularmente el mall aventura?
-12.¿Desearias recibir ofertas e información via telefónica?
-13.¿Has participado alguna vez en los eventos de Mall Aventura?
-14.¿Hasta el momento percibes que Mall Aventura te ha brindado algún beneficio adicional a tus compras?
-15.¿Qué es lo que desearías que se implementé en el Mall Aventura que hayas visto en otros lugares?
-16.¿Qué te impulsa a ir a otros centros comerciales y no a Mall Aventura?
-17.¿Qué productos/servicios consumes generalmente en el Mall Aventura?
+#### **Entrevistas a profundidad**  
+- Se realizaron entrevistas a profundidad con 5 personas a las cuales se les aplicó el siguiente cuestionario:  
 
-Las entrevistadas fueron:
+1. Edad  
+2. ¿Cada cuanto tiempo acudes al mall Aventura?  
+3. ¿Cuáles son los principales motivos por el que acudes a Mall Aventura?  
+
+**Presentación de sistema de recompensas e implementación inicial.**  
+
+4. ¿Cuán difícil es entender cada módulo?  
+5. ¿Qué nivel de incomodidad tiene cada touch point del journey?  
+6. ¿Qué desearías que mejoremos  o eliminemos en el journey?  
+7. ¿Qué premios desearías en el sistema de recompensas?  
+8. ¿Accedes al wi-fi de Mall Aventura?  
+9.¿Cuales son los motivos principales por el cual ingresarías a la web/fanpage	 del mall?  
+10.¿Con quienes visitas regularmente el mall aventura?  
+11.¿Desearias recibir ofertas e información via telefónica?  
+12.¿Has participado alguna vez en los eventos de Mall Aventura?  
+13.¿Hasta el momento percibes que Mall Aventura te ha brindado algún beneficio adicional a tus compras?  
+14.¿Qué es lo que desearías que se implementé en el Mall Aventura que hayas visto en otros lugares?  
+15.¿Qué te impulsa a ir a otros centros comerciales y no a Mall Aventura?  
+16.¿Qué productos/servicios consumes generalmente en el Mall Aventura?
+
+**Las entrevistadas fueron:**
 - Los audios de las entrevistas se encuentran en el siguiente link: https://drive.google.com/drive/folders/1lSdh-Xl8GK0Q8cfByATqN7ekwkW1_sTq?usp=sharing
 
-- _**Brainstorming de aplicativo/website/servicio**_  
+**Brainstorming de aplicativo/website/servicio**  
 
 Adicional a eso se les presento a las entrevistadas la propuesta de un Journey  la cual permita fidelizarlos.
 ![20180411_182811](https://user-images.githubusercontent.com/32311089/39416643-2dc4ecd6-4c14-11e8-8c79-f77b2d7569cd.jpg)
 
 
 #### **Benchmark**
-Se realiza un benchmark con un sistema de puntos de Mexico
-#####**Recompensas Centro Santa Fe**
-1.¿Qué es Recompensas Centro Santa Fe?
-Recompensas Centro Santa Fe , es un programa de lealtad orientado a incentivar a nuestros clientes por su preferencia y premiar sus compras. Ahora podrás obtener puntos por tus compras diarias y canjearlos por regalos.
-2.¿Cómo funciona?
-¡Para poder participar en Recompensas Centro Santa Fe solo necesitas registrarte en nuestra página: www.recompensascsf.com, comprar y capturar tus tickets los cuales te darán puntos canjeables por un regalo que podrás seleccionar tú mismo!
-3.¿Qué beneficios podrás obtener al registrarte en Recompensas Centro Santa Fe y acumular puntos?
+
+Se realiza un benchmark con un sistema de puntos de Mexico  
+
+#####**Recompensas Centro Santa Fe**  
+
+1.¿Qué es Recompensas Centro Santa Fe?  
+Recompensas Centro Santa Fe , es un programa de lealtad orientado a incentivar a nuestros clientes por su preferencia y premiar sus compras. Ahora podrás obtener puntos por tus compras diarias y canjearlos por regalos.  
+
+2.¿Cómo funciona?  
+Para poder participar en Recompensas Centro Santa Fe solo necesitas registrarte en nuestra página: www.recompensascsf.com, comprar y capturar tus tickets los cuales te darán puntos canjeables por un regalo que podrás seleccionar tú mismo
+
+3.¿Qué beneficios podrás obtener al registrarte en Recompensas Centro Santa Fe y acumular puntos?  
 Podrás canjear tus puntos acumulados por regalos, dentro de los que podrás escoger; certificados de regalo en diferentes tiendas, accesorios para tu auto, joyas, perfumes, aparatos electrónicos y electrodomésticos, entre otros.
-![image](https://user-images.githubusercontent.com/32311089/39442003-6a53a3ac-4c75-11e8-8195-8a1bc2d16bff.png)
+![image](https://user-images.githubusercontent.com/32311089/39442003-6a53a3ac-4c75-11e8-8195-8a1bc2d16bff.png)  
 
 ##### **El Tesoro App**
 
@@ -115,11 +124,13 @@ Estas son sólo algunas de las cosas que El Tesoro App te ofrece. Una experienci
 ### **Resultados de la investigación**
 
 ### **SÍNTESIS Y DEFINICIÓN**
-#### **Comentarios de los usuarios (6 entrevistados) **
-1.“Disfruto de hacer cualquier tipo de compra”
-2.”Paso tiempo de compras en los centros comerciales”
-3.”Prefiero optar por artículos que tengan valor y calidad”
-4.”Ir al Mall es una excusa perfecta para relajarme y vivir experiencias ”
+
+#### **Comentarios de los usuarios (6 entrevistados) **  
+
+1.“Disfruto de hacer cualquier tipo de compra”  
+2.”Paso tiempo de compras en los centros comerciales”  
+3.”Prefiero optar por artículos que tengan valor y calidad”  
+4.”Ir al Mall es una excusa perfecta para relajarme y vivir experiencias ”  
 5.”Encuentro lo que necesito en un solo lugar”
 
 ### **User persona**
@@ -128,6 +139,15 @@ Estas son sólo algunas de las cosas que El Tesoro App te ofrece. Una experienci
 ### **IDEACIÓN**
 ### **Feature List**
 
+1. Interacción en el totem dentro del Mall Aventura.  
+
+-	Registrar la visita con huella dactilar.  
+-	Se solicita número de DNI.  
+-	Juego de la ruleta (se le invita a jugar a cliente)  
+-	Se solicita más datos dirección, correo, celular, gustos y preferencias. (para generar base de información de los usuarios).  
+-	Entrega de premio.
+ 
+2. Interaccion la tablet ubicada en puntos estrategicos dentro del Mall Aventura
 ### **Priorización**
 ### **Storytelling**
 
