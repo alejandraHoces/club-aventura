@@ -70,7 +70,7 @@ Un sistema de recompensas mediante la acumulación de puntos  por visitas y/o co
 6. ¿Qué desearías que mejoremos  o eliminemos en el journey?  
 7. ¿Qué premios desearías en el sistema de recompensas?  
 8. ¿Accedes al wi-fi de Mall Aventura?  
-9.¿Cuales son los motivos principales por el cual ingresarías a la web/fanpage	 del mall?  
+9. ¿Cuales son los motivos principales por el cual ingresarías a la web/fanpage	 del mall?  
 10.¿Con quienes visitas regularmente el mall aventura?  
 11.¿Desearias recibir ofertas e información via telefónica?  
 12.¿Has participado alguna vez en los eventos de Mall Aventura?  
@@ -118,7 +118,7 @@ También vas a poder consultar tus puntos acumulados y redimirlos en el Centro d
 
 Adicionalmente tendrás a la mano el directorio de tiendas, ofertas vigentes, eventos, sorteos y noticias.
 
-¿Quieres llegar rápido al Parque Comercial El Tesoro?
+**¿Quieres llegar rápido al Parque Comercial El Tesoro?**
 Nuestra App te mostrará la ruta más fácil y rápida de llegada.
 
 Estas son sólo algunas de las cosas que El Tesoro App te ofrece. Una experiencia que sólo conocerás al descargarla.
@@ -149,7 +149,27 @@ Estas son sólo algunas de las cosas que El Tesoro App te ofrece. Una experienci
 -	Se solicita más datos dirección, correo, celular, gustos y preferencias. (para generar base de información de los usuarios).  
 -	Entrega de premio.
  
-2. Interacción la tablet ubicada en puntos estrategicos dentro del Mall Aventura
+2. Interacción en la tablet ubicada en puntos estrategicos dentro del Mall Aventura.  
+
+- Registro de visita al MA mediante huella dactilar.  
+-	Se otorga puntos por registro.  
+-	Opción de ver catálogo.  
+-	Vista de los premios que puede canjear.  
+
+3. Interacción en el landing page del MA.  
+
+-	Click en la opcion de club aventura.  
+-	Ingresar su dni.  
+- Vista de puntos acumulados.
+-	Vista de catálogo de cosas que se pueden canjear con los puntos obtenidos.  
+
+4. Interacción en la pagina administrador.  
+
+-	Ingreso al portal con usuario y clave de administrador.  
+-	Ingreso al portal.  
+-	Consulta de puntos con DNI.  
+-	Registro de voucher de compra.  
+-	Visualización de productos y premios a cambiar.  
 
 ### **Priorización**
 ### **Storytelling**
