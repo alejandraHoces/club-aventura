@@ -178,7 +178,11 @@ Ya falta poco tiempo para que Perú participe en el Mundial, y Juan es un hincha
 
 Empieza a revisar su Facebook   para ver si pide alguna recomendación de qué lugar le pueden sugerir, hasta que  mira una publicidad de Mall Aventura, un centro  comercial que está  cerca a su casa, Se da con la sorpresa que este centro comercial   tiene  un nuevo sistema para tener felices a sus cliente y decide probarlo yendo ese mismo día. Al llegar a Mall Aventura una señorita muy amable se le acerca y le explica del programa Club Aventura, el cual trata de cómo ganar puntos para obtener grandes descuentos en productos y servicios por solo  visitar y comprar en  el centro comercial. Juan se siente fascinado por que se dio cuenta  que por todas las compras que haga  y con el nuevo sistema  de puntos de Mall Aventura  prácticamente  las cervezas y piqueos le saldrán gratis. Sin pensarlo dos veces Juan  se inscribe en este  Club Aventura y se dio cuenta que desde ese momento  ya empezó a ganar sus  puntos, es mas  ganó un polo por  con  continuar  con la inscripción. 
 
-Al  día siguiente Juan comenta  su experiencia   que tuvo en Mall Aventura  con compañeros del trabajo, y les  recomienda  que mejor vallan para allá a hacer todas sus comprar  o pasar un buen rato con la familia, ya que los recompensaran con buenos descuentos.
+Al  día siguiente Juan comenta  su experiencia   que tuvo en Mall Aventura  con compañeros del trabajo, y les  recomienda  que mejor vallan para allá a hacer todas sus comprar  o pasar un buen rato con la familia, ya que los recompensaran con buenos descuentos.  
+
+### **Storyboard**  
+
+![clubaventura](https://user-images.githubusercontent.com/31807340/40758931-4f115934-6455-11e8-8535-3c1bf91bef9a.jpg)  
 
 ### **PROTOTYPING**  
 #### **Prototipo de baja  fidelidad**
