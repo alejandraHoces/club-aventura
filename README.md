@@ -224,7 +224,7 @@ Al  día siguiente Juan comenta  su experiencia   que tuvo en Mall Aventura  con
 
 
 #### **Primer testing**
-https://marvelapp.com/project/2825855/
+
 - _**Script del testing**_ 
 - _**Tareas a realizar**_ 
 
