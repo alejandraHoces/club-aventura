@@ -171,7 +171,7 @@ Estas son sólo algunas de las cosas que El Tesoro App te ofrece. Una experienci
 -	Registro de voucher de compra.  
 -	Visualización de productos y premios a cambiar.  
 
-### **Priorización**
+
 ### **Storytelling**
 
 Ya falta poco tiempo para que Perú participe en el Mundial, y Juan es un hincha acérrimo de la selección y quiere tener   de todo para ver y alentar al Perú. Lo primero es comprarse desde una televisión más grande, un equipo de sonido, los polos y casaquillas del mundial, hasta piqueos y unas cervezas bien heladas para alentar cada partido del Perú.  Juan sabe que invertirá mucho dinero en todo lo que desea, pero está dispuesto a gastarlo, solo que ahora está pensando en qué lugar  puede encontrar todo  y aparte  aprovechar ese día para tener  un almuerzo  con toda la familia. 
@@ -198,11 +198,6 @@ Al  día siguiente Juan comenta  su experiencia   que tuvo en Mall Aventura  con
 📱  https://marvelapp.com/15ag7c7g  
 💻 https://marvelapp.com/2gf73j0
 
-### **TESTING**
-1.  _**Totem principal**_
-2.  _**Check-in biométrico**_
-3.  _**Canje  de puntos**_
-4.  _**Consulta de puntos web**_
 
 
 ### **User Flow**
@@ -221,6 +216,12 @@ Al  día siguiente Juan comenta  su experiencia   que tuvo en Mall Aventura  con
 
 #### Usuario registrado
 ![usuario registrado](https://user-images.githubusercontent.com/32306054/39444406-3c877e00-4c7d-11e8-9478-abd0427dfcaa.jpg)
+
+### **TESTING**
+1.  _**Totem principal**_
+2.  _**Check-in biométrico**_
+3.  _**Canje  de puntos**_
+4.  _**Consulta de puntos web**_
 
 
 #### **Primer testing**
