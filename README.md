@@ -234,3 +234,12 @@ Al  día siguiente Juan comenta  su experiencia   que tuvo en Mall Aventura  con
 #### **Landing Page**
 
 #### **Tecnologías a emplear**  
+
+**Totem Interactivo / Web Responsive.**  
+Nuestros productos para el Mall Aventura, son de diseño responsive adaptable a cualquier dispositivo y sistema operativo.  
+
+Decidimos darle una atención personalizada a nuestros usuarios iniciando en el centro comercial con una anfitriona que lo guiara en la interacción con el tótem. También aprovechar ciertas capacidades de las tablets (Android) para el sistema biométrico.  
+
+**- Biometría: Opción de la huella dactilar para el ingreso a la web mediante las tablets, puesto que esto supone una mayor seguridad y legitimidad para el usuario.**
+
+
